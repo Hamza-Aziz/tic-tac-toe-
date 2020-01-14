@@ -5,6 +5,10 @@ VisualStudioVersion = 15.0.28307.852
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatriceDSRemotingTrue", "CalculatriceDSRemotingTrue\CalculatriceDSRemotingTrue.csproj", "{D4476E08-4AEF-496F-BA65-298570B8D924}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "serveurTicToe", "serveurTicToe\serveurTicToe.csproj", "{9239FC19-EAC6-4BE5-A8F7-708588D618F0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "tictoeDSform", "tictoeDSform\tictoeDSform.csproj", "{2E6B1F3C-EF7D-4BB2-847A-A39A90A6DCD7}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +19,14 @@ Global
 		{D4476E08-4AEF-496F-BA65-298570B8D924}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{D4476E08-4AEF-496F-BA65-298570B8D924}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D4476E08-4AEF-496F-BA65-298570B8D924}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9239FC19-EAC6-4BE5-A8F7-708588D618F0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9239FC19-EAC6-4BE5-A8F7-708588D618F0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9239FC19-EAC6-4BE5-A8F7-708588D618F0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9239FC19-EAC6-4BE5-A8F7-708588D618F0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2E6B1F3C-EF7D-4BB2-847A-A39A90A6DCD7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2E6B1F3C-EF7D-4BB2-847A-A39A90A6DCD7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2E6B1F3C-EF7D-4BB2-847A-A39A90A6DCD7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2E6B1F3C-EF7D-4BB2-847A-A39A90A6DCD7}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
